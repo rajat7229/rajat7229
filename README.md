@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat7229" alt="rajat7229" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajat7229" target="blank"><img src="https://img.shields.io/twitter/follow/rajat7229?logo=twitter&style=for-the-badge" alt="rajat7229" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rajat_7229" target="blank"><img src="https://img.shields.io/twitter/follow/rajat7229?logo=twitter&style=for-the-badge" alt="rajat7229" /></a> </p>
 
 - 🌱 I’m currently learning **Java script**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajat7229](https://github.com/rajat7229)
+- 👨‍💻 All of my projects are available at [https://github.com/rajat7229?tab=repositories](https://github.com/rajat7229?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
