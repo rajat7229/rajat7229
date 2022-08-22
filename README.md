@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/Rajat_7229" target="blank"><img src="https://img.shields.io/twitter/follow/rajat7229?logo=twitter&style=for-the-badge" alt="rajat7229" /></a> </p>
 
-- 🌱 I’m currently learning **Java script**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajat7229?tab=repositories](https://github.com/rajat7229?tab=repositories)
 
